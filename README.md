@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f6f98&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f6f98&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MATEUS+PHILIPE;ANALISTA+DE+DADOS+EM+DESENVOLVIMENTO;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f6f98&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MATEUS+PHILIPE;ME+DESENVOLVENDO+COMO+ANALISTA+DE+DADOS;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 ---
 
@@ -46,6 +46,8 @@
 -  **[Gerenciador de Clientes](https://github.com/Omateuso/ClientManager)**  
   Sistema simples de cadastro e organização de clientes utilizando Python e banco relacional.
 
+-  **[Análise de Vendas Online](https://github.com/Omateuso/Vendas_Online)**  
+ Análise de dados de vendas online, utilizando SQL, Python e visualizações com Seaborn e Matplotlib.
 ---
 
 ## 🧩 Tecnologias & Ferramentas
@@ -64,7 +66,7 @@
 - Projetos de **Análise de Dados e Business Intelligence**  
 - Desenvolvimento de dashboards interativos  
 - Otimização de consultas SQL  
-- Estudos sobre **Data Science, Power BI e BI**
+- Estudos sobre **Data Science, Power BI e Análise de dados**
 
 ---
 
