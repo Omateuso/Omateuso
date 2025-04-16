@@ -69,6 +69,7 @@
 - Estudos sobre **Data Science, Power BI e Análise de dados**
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omateuso&layout=compact&theme=tokyonight)
 
 ## 📬 Entre em contato:
 
